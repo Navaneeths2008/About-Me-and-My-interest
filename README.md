@@ -12,9 +12,9 @@ I enjoy exploring new technologies, working on practical projects, and taking pa
 
 ## 🎓 Education
 
-• B.Tech in Information Technology
-• Government Engineering College, Barton Hill (GEC BH)
-• Currently in First Year
+- B.Tech in Information Technology
+- Government Engineering College, Barton Hill (GEC BH)
+- Currently in First Year
 
 ────────
  ## 💻 Technical Skills & Learning
@@ -44,21 +44,21 @@ I'm currently exploring these areas to understand where I would like to speciali
 
 ## 📚 Currently Learning
 
-• Programming fundamentals
-• Web development
-• Git & GitHub
-• Artificial Intelligence & Machine Learning
-• Building practical projects
+- Programming fundamentals
+- Web development
+- Git & GitHub
+- Artificial Intelligence & Machine Learning
+- Building practical projects
 
 ────────
 
 ## 🚀 Future Goals
 
-• Build strong programming and problem-solving fundamentals
-• Develop real-world software projects
-• Gain practical experience through hackathons and internships
-• Explore AI/ML and other areas of technology
-• Continuously improve my technical and professional skills
+- Build strong programming and problem-solving fundamentals
+- Develop real-world software projects
+- Gain practical experience through hackathons and internships
+- Explore AI/ML and other areas of technology
+- Continuously improve my technical and professional skills
 
 ────────
 ## 🏆 Activities & Experience
