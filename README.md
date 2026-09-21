@@ -72,11 +72,10 @@ I am currently building my technical foundation and developing skills in:
 
 ────────
 
-🔗 Connect With Me
+## 🔗 Connect With Me
 
-• 💼 https://www.linkedin.com/in/navaneeth-s-482642416?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-
-• 🐙 https://github.com/Navaneeths2008
+- 💼 [LinkedIn](https://www.linkedin.com/in/navaneeth-s-482642416/)
+- 🐙 [GitHub](https://github.com/Navaneeths2008)
 
 ────────
 
