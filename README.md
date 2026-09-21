@@ -1,5 +1,3 @@
-
-
 # 👋 Hi, I’m Navaneeth S
 
 ### B.Tech Information Technology Student | GEC Barton Hill
