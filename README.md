@@ -1,5 +1,5 @@
 
-A professional introduction to my background, technical interests, and learning journey.
+
 👋 Hi, I’m Navaneeth S
 
 B.Tech Information Technology Student | GEC Barton Hill
