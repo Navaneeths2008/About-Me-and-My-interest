@@ -23,10 +23,15 @@ I enjoy exploring new technologies, working on practical projects, and taking pa
 I am currently building my technical foundation and developing skills in:
 
 • Programming fundamentals
+
 • Web development
+
 • Git & GitHub
+
 • Problem solving
+
 • AI/ML fundamentals
+
 
 > I’m still learning and improving these skills through coursework, projects, and practical experience.
 
