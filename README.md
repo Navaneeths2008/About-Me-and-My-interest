@@ -1,8 +1,8 @@
 
 
-👋 Hi, I’m Navaneeth S
+#👋 Hi, I’m Navaneeth S
 
-B.Tech Information Technology Student | GEC Barton Hill
+###B.Tech Information Technology Student | GEC Barton Hill
 
 I’m a first-year B.Tech Information Technology student at Government Engineering College, Barton Hill (GEC BH), interested in technology, software development, and continuous learning.
 
@@ -10,7 +10,7 @@ I enjoy exploring new technologies, working on practical projects, and taking pa
 
 ────────
 
-🎓 Education
+##🎓 Education
 
 • B.Tech in Information Technology
 • Government Engineering College, Barton Hill (GEC BH)
@@ -30,18 +30,19 @@ Currently developing skills in:
 > I am continuously building these skills through coursework, projects, and practical experience.
 
 ────────
-🎯 Areas of Interest
+## 🎯 Areas of Interest
 
-• Software Development
-• Web Development
-• Artificial Intelligence & Machine Learning
-• Data Science
-• Cybersecurity
-• Cloud & DevOps
+- Software Development
+- Web Development
+- Artificial Intelligence & Machine Learning
+- Data Science
+- Cybersecurity
+- Cloud & DevOps
 
+I'm currently exploring these areas to understand where I would like to specialize in the future.
 ────────
 
-📚 Currently Learning
+##📚 Currently Learning
 
 • Programming fundamentals
 • Web development
@@ -51,7 +52,7 @@ Currently developing skills in:
 
 ────────
 
-🚀 Future Goals
+##🚀 Future Goals
 
 • Build strong programming and problem-solving fundamentals
 • Develop real-world software projects
@@ -60,13 +61,15 @@ Currently developing skills in:
 • Continuously improve my technical and professional skills
 
 ────────
+## 🏆 Activities & Experience
 
-🏆 Activities & Experience
+### CodeForge — Hackathon
 
-• Participated in my first hackathon with Team CodeForge
-• Selected for the next round of the hackathon
-• Contributed to the team’s website and AI model
-• Interested in learning through practical, team-based projects
+- Participated in my first hackathon as a member of Team CodeForge
+- Selected for the next round
+- Contributed to the development of the team's website
+- Contributed to the team's AI model
+- Gained experience in teamwork, problem solving, and practical development
 
 ────────
 
