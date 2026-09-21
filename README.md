@@ -10,7 +10,7 @@ I enjoy exploring new technologies, working on practical projects, and taking pa
 
 ────────
 
-##🎓 Education
+## 🎓 Education
 
 • B.Tech in Information Technology
 • Government Engineering College, Barton Hill (GEC BH)
@@ -42,7 +42,7 @@ Currently developing skills in:
 I'm currently exploring these areas to understand where I would like to specialize in the future.
 ────────
 
-##📚 Currently Learning
+## 📚 Currently Learning
 
 • Programming fundamentals
 • Web development
@@ -52,7 +52,7 @@ I'm currently exploring these areas to understand where I would like to speciali
 
 ────────
 
-##🚀 Future Goals
+## 🚀 Future Goals
 
 • Build strong programming and problem-solving fundamentals
 • Develop real-world software projects
