@@ -17,26 +17,19 @@ I enjoy exploring new technologies, working on practical projects, and taking pa
 • Currently in First Year
 
 ────────
+ ## 💻 Technical Skills & Learning
 
-💻 Technical Skills
+Currently developing skills in:
 
-I am currently building my technical foundation and developing skills in:
+- Programming fundamentals
+- Web development
+- Git & GitHub
+- Problem solving
+- AI/ML fundamentals
 
-• Programming fundamentals
-
-• Web development
-
-• Git & GitHub
-
-• Problem solving
-
-• AI/ML fundamentals
-
-
-> I’m still learning and improving these skills through coursework, projects, and practical experience.
+> I am continuously building these skills through coursework, projects, and practical experience.
 
 ────────
-
 🎯 Areas of Interest
 
 • Software Development
