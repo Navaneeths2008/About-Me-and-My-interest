@@ -1,4 +1,4 @@
-look# About-Me-and-My-interest
+
 A professional introduction to my background, technical interests, and learning journey.
 👋 Hi, I’m Navaneeth S
 
@@ -75,9 +75,9 @@ I am currently building my technical foundation and developing skills in:
 🔗 Connect With Me
 
 • 💼 https://www.linkedin.com/in/navaneeth-s-482642416?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
 • 🐙 https://github.com/Navaneeths2008
 
 ────────
 
 🌱 Learning, Building & Improving — One Step at a Time.
-Create professional profile README
