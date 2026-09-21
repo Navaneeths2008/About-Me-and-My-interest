@@ -1,8 +1,8 @@
 
 
-#👋 Hi, I’m Navaneeth S
+# 👋 Hi, I’m Navaneeth S
 
-###B.Tech Information Technology Student | GEC Barton Hill
+### B.Tech Information Technology Student | GEC Barton Hill
 
 I’m a first-year B.Tech Information Technology student at Government Engineering College, Barton Hill (GEC BH), interested in technology, software development, and continuous learning.
 
